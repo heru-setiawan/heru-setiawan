@@ -1,13 +1,8 @@
 # Hello, I'm Heru Setiawan! 👋
 
-Welcome to my GitHub profile! I'm a passionate backend engineer with expertise in building robust and scalable applications. My tech stack includes Golang, Echo, GORM, MySQL, Docker, AWS, and GCP. I'm a strong advocate for best practices such as unit testing, Test-Driven Development (TDD), and Clean Architecture.
+Welcome to my GitHub profile! I'm a passionate backend engineer with expertise in building robust and scalable applications. I specialize in crafting efficient backend solutions that not only meet the business requirements but also adhere to high standards of code quality and maintainability. My experience spans across various domains, and I'm always eager to tackle new challenges in the ever-evolving landscape of software development.
 
-## About Me
-
-I specialize in crafting efficient backend solutions that not only meet the business requirements but also adhere to high standards of code quality and maintainability. My experience spans across various domains, and I'm always eager to tackle new challenges in the ever-evolving landscape of software development.
-
-## Technical Skills
-
+## Tech Stack
 - **Programming Languages:** Golang, PHP, HTML, CSS, Javascript
 - **Web Frameworks:** Echo, Laravel
 - **ORM:** GORM
@@ -27,9 +22,5 @@ Here are some of the projects I'm currently working on:
 ## My GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heru-setiawan&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/heru-setiawan)
-
-## Contact
-
-If you're interested in discussing backend development, best practices, or potential collaboration, feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to engaging conversations and sharing insights!
 
 Thanks for stopping by my GitHub profile. Let's continue to build innovative and efficient solutions together! 🚀
